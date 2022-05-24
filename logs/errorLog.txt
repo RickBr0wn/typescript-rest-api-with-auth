@@ -1,0 +1,4 @@
+19-05-2022	16:24:04	f1a6b25c-d449-4e79-b5f0-0c30337d3602	Error: Not allowed by CORS.
+19-05-2022	16:36:34	cf679de2-a484-4d64-b380-4c022eeade79	Error: ENOENT: no such file or directory, stat '/Users/rickbrown/Projects/express-logger/dist/middleware/views/404.html'
+23-05-2022	13:35:17	db19a5d7-eb44-4441-aa7e-2dee300ec3cc	TokenExpiredError: jwt expired
+24-05-2022	13:26:22	53bcb3f2-a77b-4aef-a0e9-2c60043235ce	TokenExpiredError: jwt expired

@@ -1,0 +1,13 @@
+17-05-2022	20:24:18	da57579c-64bd-44ed-b379-8e9baf8c7632	GET		/server/health/check
+18-05-2022	11:46:15	89075c4d-ed7a-4913-9bff-bb6792f8702b	GET		/server/health/check
+18-05-2022	11:55:32	99874cf4-05ed-415c-b555-9bdf84ed0e17	GET		/health-check/server
+18-05-2022	11:55:37	50e9d64e-a60b-4aeb-90a0-5a5e41045120	GET		/health-check/server
+18-05-2022	11:55:40	bc1b93f2-d785-40c7-9939-e775891aed6f	GET		/health-check/database
+18-05-2022	11:55:55	9fa8efe1-0851-4c8b-ad4d-fb23e850ff07	GET		/health-check/server
+18-05-2022	11:55:57	f3eb50d5-c7b7-4d53-897c-f3b9f2cffdac	GET		/health-check/database
+18-05-2022	11:59:11	3bdc80c5-e94e-48c1-aee5-0ce3b610c8c2	GET		/health-check/database
+18-05-2022	12:03:08	af5ba57c-c13f-4e2a-8fb8-8ae1a774900c	GET		/health-check/server
+18-05-2022	12:03:09	5fa42eb3-5b5a-49f0-b614-b506c3c12dcc	GET		/health-check/server
+18-05-2022	12:03:09	995772d0-c245-4639-b581-9337930a83db	GET		/health-check/server
+18-05-2022	12:03:10	9fda9ebe-901f-48d1-bd0f-ed3fde9f268a	GET		/health-check/server
+18-05-2022	12:03:11	cacf4b85-1e6f-46af-ac26-8c7d9289b8e3	GET		/health-check/server

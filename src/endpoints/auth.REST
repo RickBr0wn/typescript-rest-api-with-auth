@@ -1,0 +1,17 @@
+POST  http://localhost:5000/auth/register
+Content-Type: application/json
+
+{
+  "email": "ddd@ddd.com",
+  "password": "stupid_password"
+}
+
+###
+
+POST  http://localhost:5000/auth/login
+Content-Type: application/json
+
+{
+  "email": "ddd@ddd.com",
+  "password": "stupid_password"
+}
